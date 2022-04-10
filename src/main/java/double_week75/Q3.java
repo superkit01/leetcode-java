@@ -1,4 +1,4 @@
-package week75;
+package double_week75;
 
 /**
  *
